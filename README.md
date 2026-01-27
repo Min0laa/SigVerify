@@ -2,7 +2,7 @@
 
 SigVerify est une solution de workflow documentaire sécurisée qui intègre des signatures sur la blockchain XRPL pour une vérification immuable. Développé lors du XRPL Commons Residency et du HACKS Hackathon, il permet de gérer et signer des documents de manière transparente et sécurisée.
 
-![Landing Page](public/images/landing-page.png)
+![Landing Page](./public/images/landing-page.png)
 
 ## 🎯 Fonctionnalités
 
@@ -76,7 +76,7 @@ SigVerify est une solution de workflow documentaire sécurisée qui intègre des
 
 La page d'accueil présente SigVerify et permet de s'inscrire rapidement via email.
 
-![Landing Page](public/images/landing-page.png)
+![Landing Page](./public/images/landing-page.png)
 
 **Exemple d'utilisation** :
 - Entre ton email dans le champ prévu
