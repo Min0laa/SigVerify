@@ -2,7 +2,9 @@
 
 SigVerify est une solution de workflow documentaire sécurisée qui intègre des signatures sur la blockchain XRPL pour une vérification immuable. Développé lors du XRPL Commons Residency et du HACKS Hackathon, il permet de gérer et signer des documents de manière transparente et sécurisée.
 
-![Landing Page](./public/images/landing-page.png)
+
+<img width="192" height="65" alt="Screenshot 2026-01-27 at 14 40 19" src="https://github.com/user-attachments/assets/b3fa3c9f-cfb7-43c0-94fd-311c39c0eeeb" />
+
 
 ## 🎯 Fonctionnalités
 
@@ -76,7 +78,8 @@ SigVerify est une solution de workflow documentaire sécurisée qui intègre des
 
 La page d'accueil présente SigVerify et permet de s'inscrire rapidement via email.
 
-![Landing Page](./public/images/landing-page.png)
+![Landing Page] ![Uploading Screenshot 2026-01-27 at 13.57.01.png…]()
+
 
 **Exemple d'utilisation** :
 - Entre ton email dans le champ prévu
@@ -87,7 +90,8 @@ La page d'accueil présente SigVerify et permet de s'inscrire rapidement via ema
 
 Une fois connecté, tu accèdes au tableau de bord qui centralise toutes tes actions.
 
-![Dashboard](./public/images/dashboard.png)
+![Dashboard] <img width="1728" height="917" alt="Screenshot 2026-01-27 at 14 19 17" src="https://github.com/user-attachments/assets/36c0f3d8-10f3-46e3-8881-4d8763353377" />
+
 
 **Fonctionnalités principales** :
 
@@ -107,7 +111,8 @@ Une fois connecté, tu accèdes au tableau de bord qui centralise toutes tes act
 
 SigVerify propose une collection de templates prédéfinis pour accélérer la création de documents.
 
-![Templates](./public/images/templates.png)
+![Templates] <img width="693" height="339" alt="Screenshot 2026-01-27 at 14 19 44" src="https://github.com/user-attachments/assets/a323fd55-ccfb-4762-90ac-839304202534" />
+
 
 **Types de templates disponibles** :
 - **Task Completion Form** : Pour suivre l'avancement de tâches (ex: Programme Ambassadeur Campus XRPL)
