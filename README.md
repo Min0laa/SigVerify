@@ -78,7 +78,7 @@ SigVerify est une solution de workflow documentaire sécurisée qui intègre des
 
 La page d'accueil présente SigVerify et permet de s'inscrire rapidement via email.
 
-![Landing Page] ![Uploading Screenshot 2026-01-27 at 13.57.01.png…]()
+![Uploading Screenshot 2026-01-27 at 13.57.01.png…]()
 
 
 **Exemple d'utilisation** :
@@ -90,7 +90,7 @@ La page d'accueil présente SigVerify et permet de s'inscrire rapidement via ema
 
 Une fois connecté, tu accèdes au tableau de bord qui centralise toutes tes actions.
 
-![Dashboard] <img width="1728" height="917" alt="Screenshot 2026-01-27 at 14 19 17" src="https://github.com/user-attachments/assets/36c0f3d8-10f3-46e3-8881-4d8763353377" />
+<img width="1728" height="917" alt="Screenshot 2026-01-27 at 14 19 17" src="https://github.com/user-attachments/assets/36c0f3d8-10f3-46e3-8881-4d8763353377" />
 
 
 **Fonctionnalités principales** :
@@ -111,7 +111,7 @@ Une fois connecté, tu accèdes au tableau de bord qui centralise toutes tes act
 
 SigVerify propose une collection de templates prédéfinis pour accélérer la création de documents.
 
-![Templates] <img width="693" height="339" alt="Screenshot 2026-01-27 at 14 19 44" src="https://github.com/user-attachments/assets/a323fd55-ccfb-4762-90ac-839304202534" />
+<img width="693" height="339" alt="Screenshot 2026-01-27 at 14 19 44" src="https://github.com/user-attachments/assets/a323fd55-ccfb-4762-90ac-839304202534" />
 
 
 **Types de templates disponibles** :
