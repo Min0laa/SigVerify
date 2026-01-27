@@ -87,7 +87,7 @@ La page d'accueil présente SigVerify et permet de s'inscrire rapidement via ema
 
 Une fois connecté, tu accèdes au tableau de bord qui centralise toutes tes actions.
 
-![Dashboard](public/images/dashboard.png)
+![Dashboard](./public/images/dashboard.png)
 
 **Fonctionnalités principales** :
 
@@ -107,7 +107,7 @@ Une fois connecté, tu accèdes au tableau de bord qui centralise toutes tes act
 
 SigVerify propose une collection de templates prédéfinis pour accélérer la création de documents.
 
-![Templates](public/images/templates.png)
+![Templates](./public/images/templates.png)
 
 **Types de templates disponibles** :
 - **Task Completion Form** : Pour suivre l'avancement de tâches (ex: Programme Ambassadeur Campus XRPL)
